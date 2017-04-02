@@ -5,6 +5,6 @@ package mygame;
  */
 public class NewClass {
 
-    // TEST CLASS !!!
+    // TEST CLASS !!! EDITED HERE
 
 }
