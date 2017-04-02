@@ -13,7 +13,9 @@ public class TestAppState extends AbstractAppState {
   
     public void foo() {test}
 
-    public void foo2() {}
+    public void foo2() {
+        System.out.println("HALLO WELT!!!");
+    }
 
 
   public int getX() {
