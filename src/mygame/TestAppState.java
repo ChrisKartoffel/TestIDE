@@ -7,12 +7,13 @@ import com.jme3.app.state.AbstractAppState;
  */
 public class TestAppState extends AbstractAppState {
 
-  private int x = 100;
-    
+    private int x = 100;
+
     public void setX(int x) {}
   
-  public void foo() {}
+    public void foo() {}
 
+    public void foo2() {}
 
 
   public int getX() {
