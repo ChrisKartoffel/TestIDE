@@ -10,6 +10,8 @@ public class TestAppState extends AbstractAppState {
   private int x = 100;
     
     public void setX(int x) {}
+  
+  public void foo() {}
 
 
 
