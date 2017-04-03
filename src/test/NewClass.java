@@ -6,7 +6,9 @@ package test;
 public class NewClass {
 
     // TEST CLASS !!! EDITED HERE TEST
-    
-        HIER GIBT ES NICHTS ZU SEHEN GEHEN SIE WEITER!!;
+
+    //    HIER GIBT ES NICHTS ZU SEHEN GEHEN SIE WEITER!!;
+
+    //      HIER GIBT ES NICHTS ZU SEHEN GEHEN SIE WEITER!!;
 
 }
