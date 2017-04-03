@@ -29,13 +29,11 @@ public class Main extends SimpleApplication {
         Geometry geom = new Geometry("Box", b);
         geom.setLocalTranslation(2,2,1);
 
-
         Material mat = new Material(assetManager, "Common/MatDefs/Misc/Unshaded.j3md");
         mat.setColor("Color", ColorRGBA.Blue);
         geom.setMaterial(mat);
 
         rootNode.attachChild(geom);
-// test
 
         Spatial s = assetManager.loadModel("Models/Test.j3o");
 
