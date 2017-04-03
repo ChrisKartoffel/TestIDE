@@ -27,7 +27,7 @@ public class Main extends SimpleApplication {
     public void simpleInitApp() {
         Box b = new Box(1, 1, 1);
         Geometry geom = new Geometry("Box", b);
-        geom.setLocalTranslation(2,2,1);
+        geom.setLocalTranslation(2, 1, 1);
 
         Material mat = new Material(assetManager, "Common/MatDefs/Misc/Unshaded.j3md");
         mat.setColor("Color", ColorRGBA.Blue);
