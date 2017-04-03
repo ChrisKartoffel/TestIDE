@@ -1,4 +1,4 @@
-package mygame;
+package test;
 
 import com.jme3.app.state.AbstractAppState;
 

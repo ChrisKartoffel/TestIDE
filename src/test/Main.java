@@ -1,4 +1,4 @@
-package mygame;
+package test;
 
 import com.jme3.app.SimpleApplication;
 import com.jme3.bullet.BulletAppState;
