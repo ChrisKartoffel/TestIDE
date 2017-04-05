@@ -1,6 +1,7 @@
 package test;
 
 /**
+ * TEST
  * Created by Domenic on 02.04.2017.
  */
 public class Class2 {
@@ -9,6 +10,10 @@ public class Class2 {
 
     void test() {
 
+    }
+
+
+    void setX() {
     }
   
 }
