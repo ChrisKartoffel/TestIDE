@@ -6,5 +6,9 @@ package test;
 public class Class2 {
   
   // MY ADDED COMMENT  -- and something else and even more
+
+    void test() {
+
+    }
   
 }
