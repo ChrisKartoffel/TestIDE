@@ -10,8 +10,10 @@ public class TestAppState extends AbstractAppState {
     private int x = 100;
 
     public void setX(int x) {}
-  
-    public void foo() {return;}
+
+    public void foo() {
+        int x = 10;
+    }
 
     public void foo2() {
         System.out.println("HALLO WELT!!!");
