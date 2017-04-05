@@ -10,7 +10,7 @@ public class TestAppState extends AbstractAppState {
     private int x = 100;
 
     public void foo() {
-        int x = 20;
+        int x = 30;
     }
 
     public void foo2() {
