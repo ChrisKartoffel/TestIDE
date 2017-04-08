@@ -15,6 +15,7 @@ import com.jme3.scene.shape.Box;
  * This is the Main Class of your Game. You should only do initialization here.
  * ja nein
  * @author ok diesmal ist es vielleicht Domenic ein bisschen mehr und noch mehr
+ * Halloooooooooo
  */
 public class Main extends SimpleApplication {
 
